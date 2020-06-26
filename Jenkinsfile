@@ -1,4 +1,5 @@
 pipeline {
+     {
      agent {label 'Node-1'}
      agent {     
          docker {       
